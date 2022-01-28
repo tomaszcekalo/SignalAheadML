@@ -1,0 +1,36 @@
+﻿{
+  "TrainingTime": 2147482,
+  "Scenario": "ObjectDetection",
+  "DataSource": {
+    "Type": "Vott",
+    "Version": 1,
+    "FilePath": "D:\\sourcerepos\\SignalAheadML\\SignalAheadML\\SignalAhead\\vott-json-export\\SignalAhead-export.json"
+  },
+  "Environment": {
+    "Type": "Azure",
+    "Version": 1,
+    "SubscriptionID": "3f787d85-119d-449c-840d-ed6964c77357",
+    "ResourceGroupName": "MLRG",
+    "WorkspaceName": "MLWS",
+    "ComputeName": "compute",
+    "Location": "westeurope",
+    "ExperimentName": "SignalAheadModel"
+  },
+  "RunHistory": {
+    "Version": 0,
+    "Type": "Result",
+    "Trials": [
+      {
+        "Version": 0,
+        "Type": "Trial",
+        "TrainerName": "Azure AutoML Algorithm",
+        "Score": 1.0,
+        "RuntimeInSeconds": 520.4729725
+      }
+    ],
+    "Pipeline": "{\"parameter\":{\r\n  \"0\": {\r\n    \"OutputColumnName\": \"input1\",\r\n    \"InputColumnName\": \"input1\",\r\n    \"ImageHeight\": 600,\r\n    \"ImageWidth\": 800,\r\n    \"CropAnchor\": \"Center\",\r\n    \"Resizing\": \"Fill\"\r\n  },\r\n  \"1\": {\r\n    \"OutputColumnName\": \"input1\",\r\n    \"InputColumnName\": \"input1\",\r\n    \"ColorsToExtract\": \"Rgb\",\r\n    \"OrderOfExtraction\": \"ARGB\",\r\n    \"OutputAsFloatArray\": true\r\n  },\r\n  \"2\": {\r\n    \"ModelFile\": \"C:\\\\Users\\\\TomaszCekało\\\\source\\\\repos\\\\SignalAheadML\\\\SignalAheadML\\\\SignalAheadModel.onnx\",\r\n    \"FallbackToCpu\": true\r\n  }\r\n},\"estimators\":[\"ResizeImages\",\"ExtractPixels\",\"ApplyOnnxModel\"]}",
+    "MetricName": "accuracy"
+  },
+  "Type": "TrainingConfig",
+  "Version": 1
+}

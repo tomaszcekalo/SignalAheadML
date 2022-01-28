@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2f9c25a99ff77f9ca383e4c3aaab243f",
+        "name": "images%20(2).jpg",
+        "path": "file:C:/Users/TomaszCeka%C5%82o/Pictures/SignalAhead/images%20(2).jpg",
+        "size": {
+            "width": 194,
+            "height": 259
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fkOirRMsZ",
+            "type": "RECTANGLE",
+            "tags": [
+                "SignalAhead"
+            ],
+            "boundingBox": {
+                "height": 112.9621212121212,
+                "width": 135.6878612716763,
+                "left": 35.62156791907515,
+                "top": 35.03787878787878
+            },
+            "points": [
+                {
+                    "x": 35.62156791907515,
+                    "y": 35.03787878787878
+                },
+                {
+                    "x": 171.30942919075144,
+                    "y": 35.03787878787878
+                },
+                {
+                    "x": 171.30942919075144,
+                    "y": 148
+                },
+                {
+                    "x": 35.62156791907515,
+                    "y": 148
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,311 @@
+{
+    "name": "SignalAhead",
+    "securityToken": "SignalAhead Token",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "SignalAhead",
+            "color": "#5db300"
+        }
+    ],
+    "id": "2biGZCbM7",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "2f610a08f3dc15e57dbd37fe73f5dc32",
+    "assets": {
+        "2f610a08f3dc15e57dbd37fe73f5dc32": {
+            "asset": {
+                "format": "jpg",
+                "id": "2f610a08f3dc15e57dbd37fe73f5dc32",
+                "name": "images.jpg",
+                "path": "file:C:/Users/TomaszCeka%C5%82o/Pictures/SignalAhead/images.jpg",
+                "size": {
+                    "width": 275,
+                    "height": 183
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "4u6pkykeB",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "SignalAhead"
+                    ],
+                    "boundingBox": {
+                        "height": 136.18604651162792,
+                        "width": 140.2670278637771,
+                        "left": 117.4922600619195,
+                        "top": 17.425563226744185
+                    },
+                    "points": [
+                        {
+                            "x": 117.4922600619195,
+                            "y": 17.425563226744185
+                        },
+                        {
+                            "x": 257.7592879256966,
+                            "y": 17.425563226744185
+                        },
+                        {
+                            "x": 257.7592879256966,
+                            "y": 153.6116097383721
+                        },
+                        {
+                            "x": 117.4922600619195,
+                            "y": 153.6116097383721
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "2f9c25a99ff77f9ca383e4c3aaab243f": {
+            "asset": {
+                "format": "jpg",
+                "id": "2f9c25a99ff77f9ca383e4c3aaab243f",
+                "name": "images%20(2).jpg",
+                "path": "file:C:/Users/TomaszCeka%C5%82o/Pictures/SignalAhead/images%20(2).jpg",
+                "size": {
+                    "width": 194,
+                    "height": 259
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "fkOirRMsZ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "SignalAhead"
+                    ],
+                    "boundingBox": {
+                        "height": 112.9621212121212,
+                        "width": 135.6878612716763,
+                        "left": 35.62156791907515,
+                        "top": 35.03787878787878
+                    },
+                    "points": [
+                        {
+                            "x": 35.62156791907515,
+                            "y": 35.03787878787878
+                        },
+                        {
+                            "x": 171.30942919075144,
+                            "y": 35.03787878787878
+                        },
+                        {
+                            "x": 171.30942919075144,
+                            "y": 148
+                        },
+                        {
+                            "x": 35.62156791907515,
+                            "y": 148
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "83be6f7e6b37c2068f70a2f9094dfacf": {
+            "asset": {
+                "format": "jpg",
+                "id": "83be6f7e6b37c2068f70a2f9094dfacf",
+                "name": "images%20(1).jpg",
+                "path": "file:C:/Users/TomaszCeka%C5%82o/Pictures/SignalAhead/images%20(1).jpg",
+                "size": {
+                    "width": 177,
+                    "height": 285
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "uUJNKYjMU",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "SignalAhead"
+                    ],
+                    "boundingBox": {
+                        "height": 124.30194805194806,
+                        "width": 122.11149825783973,
+                        "left": 6.147974738675958,
+                        "top": 11.412337662337663
+                    },
+                    "points": [
+                        {
+                            "x": 6.147974738675958,
+                            "y": 11.412337662337663
+                        },
+                        {
+                            "x": 128.25947299651568,
+                            "y": 11.412337662337663
+                        },
+                        {
+                            "x": 128.25947299651568,
+                            "y": 135.71428571428572
+                        },
+                        {
+                            "x": 6.147974738675958,
+                            "y": 135.71428571428572
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "c7dc73a0d57aba7e1c3427e75f8dcea2": {
+            "asset": {
+                "format": "jpg",
+                "id": "c7dc73a0d57aba7e1c3427e75f8dcea2",
+                "name": "maxresdefault.jpg",
+                "path": "file:C:/Users/TomaszCeka%C5%82o/Pictures/SignalAhead/maxresdefault.jpg",
+                "size": {
+                    "width": 1280,
+                    "height": 720
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "nbv5-71Lb",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "SignalAhead"
+                    ],
+                    "boundingBox": {
+                        "height": 524.8968363136175,
+                        "width": 533.9938080495356,
+                        "left": 426.9969040247678,
+                        "top": 84.55295735900962
+                    },
+                    "points": [
+                        {
+                            "x": 426.9969040247678,
+                            "y": 84.55295735900962
+                        },
+                        {
+                            "x": 960.9907120743034,
+                            "y": 84.55295735900962
+                        },
+                        {
+                            "x": 960.9907120743034,
+                            "y": 609.4497936726272
+                        },
+                        {
+                            "x": 426.9969040247678,
+                            "y": 609.4497936726272
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "44595b980368df05b8b2561e78ee8e4b": {
+            "asset": {
+                "format": "jpg",
+                "id": "44595b980368df05b8b2561e78ee8e4b",
+                "name": "4536939700_e3154e078e_b.jpg",
+                "path": "file:C:/Users/TomaszCeka%C5%82o/Pictures/SignalAhead/4536939700_e3154e078e_b.jpg",
+                "size": {
+                    "width": 1024,
+                    "height": 768
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "BMdDonB02",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "SignalAhead"
+                    ],
+                    "boundingBox": {
+                        "height": 164.57142857142858,
+                        "width": 161.24675324675326,
+                        "left": 417.24675324675326,
+                        "top": 260.1558441558442
+                    },
+                    "points": [
+                        {
+                            "x": 417.24675324675326,
+                            "y": 260.1558441558442
+                        },
+                        {
+                            "x": 578.4935064935065,
+                            "y": 260.1558441558442
+                        },
+                        {
+                            "x": 578.4935064935065,
+                            "y": 424.72727272727275
+                        },
+                        {
+                            "x": 417.24675324675326,
+                            "y": 424.72727272727275
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "f5080455677207b5c2470f5aff1f4956": {
+            "asset": {
+                "format": "png",
+                "id": "f5080455677207b5c2470f5aff1f4956",
+                "name": "248266fdf1f74ced61953f34e7ec901b.png",
+                "path": "file:C:/Users/TomaszCeka%C5%82o/Pictures/SignalAhead/248266fdf1f74ced61953f34e7ec901b.png",
+                "size": {
+                    "width": 435,
+                    "height": 352
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "1kZjO1n5c",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "SignalAhead"
+                    ],
+                    "boundingBox": {
+                        "height": 162.28571428571428,
+                        "width": 163.79159369527153,
+                        "left": 187.1937937828372,
+                        "top": 19.80952380952381
+                    },
+                    "points": [
+                        {
+                            "x": 187.1937937828372,
+                            "y": 19.80952380952381
+                        },
+                        {
+                            "x": 350.98538747810875,
+                            "y": 19.80952380952381
+                        },
+                        {
+                            "x": 350.98538747810875,
+                            "y": 182.09523809523805
+                        },
+                        {
+                            "x": 187.1937937828372,
+                            "y": 182.09523809523805
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        }
+    }
+}
